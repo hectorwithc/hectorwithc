@@ -1,4 +1,4 @@
-![@hectorwithc](donut-code.png)
+![@hectorwithc](donut-code-banner.png)
 
 
 - 👋 Hello, I’m @hectorwithc
