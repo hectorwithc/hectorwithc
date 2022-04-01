@@ -1,4 +1,5 @@
 ![@hectorwithc](donut-code-banner.png)
+<img align="center" src="donut-code-banner.png">
 
 - 👋 Hello, I’m @hectorwithc
 - 👀 I’m interested in coding...
