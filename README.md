@@ -1,3 +1,6 @@
+![@hectorwithc](donut-code.png)
+
+
 - 👋 Hello, I’m @hectorwithc
 - 👀 I’m interested in coding...
 - 🌱 This is just a placeholder for now...
