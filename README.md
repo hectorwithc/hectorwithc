@@ -1,5 +1,6 @@
 ![@hectorwithc](donut-code-banner.png)
 
+[![Discord](https://img.shields.io/badge/VL07%239174-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/155149108183695360)
 
 - 👋 Hello, I’m @hectorwithc
 - 👀 I’m interested in coding...
