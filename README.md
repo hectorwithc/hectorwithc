@@ -11,6 +11,7 @@
 hectorwithc/hectorwithc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=VL07&show_icons=true">
 
 ## Programming languages
 
@@ -22,8 +23,6 @@ You can click the Preview link to take a look at your changes.
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Technologies
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=VL07">
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
