@@ -6,8 +6,6 @@
 - 🌎 In the future I'm looking to work for tech companies...
 - 📫 In the future you will be able to reach me at linkedin...
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hectorwithc&show_icons=true&theme=nord">
-
 ## Programming languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
