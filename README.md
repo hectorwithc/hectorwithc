@@ -1,5 +1,5 @@
 <h1 align="left">
-Hector (@hectorwithc)
+
 </h1>
 
 👀 - I like **programing**.
