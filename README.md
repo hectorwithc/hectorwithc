@@ -1,7 +1,15 @@
-- 👋 Hello, I’m Hector (@hectorwithc)
-- 👀 I like programing.
-- 🚩 This is just a placeholder for the time being...
-- 🌎 In the future I'm looking to work for tech companies...
-- 📫 You can reach out me via my Twitter and in the future you will be able to reach me through linkedin aswell.
+<h1 align="left">
+Hector (@hectorwithc)
+</h1>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hectorwithc&show_icons=true&theme=nord">
+👀 - I like **programing**.
+<br/>
+🚩 - This is just a **placeholder for the time being**...
+<br/>
+📫 - You can reach out to me via **Twitter** and in the future through **Linkedin** aswell.
+<br/>
+
+<div align="left">
+  <h2>Statistics</h2>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hectorwithc&show_icons=true&theme=nord">
+</div>
