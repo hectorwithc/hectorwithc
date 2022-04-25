@@ -7,4 +7,4 @@
 
 <h2>Contact</h2>
 
-- **Twitter**
+- **[Twitter](https://twitter.com/hectorwithc)**
