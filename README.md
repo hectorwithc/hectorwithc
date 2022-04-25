@@ -1,4 +1,4 @@
-![@hectorwithc](./pictures/image.png)
+![@hectorwithc](donut-code-banner.png)
 
 <h2>Contact</h2>
 
