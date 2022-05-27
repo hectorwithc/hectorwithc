@@ -1,4 +1,3 @@
-![@hectorwithc](donut-code.png)
 
 <div align="left">
   <h2>Statistics</h2>
